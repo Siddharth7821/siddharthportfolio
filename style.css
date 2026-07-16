@@ -909,9 +909,9 @@ ul, ol {
 
 .education-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: var(--space-lg);
-  max-width: 800px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
